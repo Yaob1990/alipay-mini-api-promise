@@ -1,6 +1,6 @@
 {
   "name": "alipay-mini-api-promise",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "description": "",
   "keywords": [],
   "main": "dist/alipay-mini-api-promise.umd.js",
@@ -93,6 +93,6 @@
     "which": "^2.0.2"
   },
   "dependencies": {
-    "alipay-mini-types": "^0.0.1"
+    "alipay-mini-types": "^0.1.0"
   }
 }
